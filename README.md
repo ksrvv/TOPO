@@ -4,8 +4,8 @@
 [Лабораторная работа №1.pdf](https://github.com/ksrvv/TOPO/files/7996404/1.pdf)
 
 
+[Лабораторная работа №2.pdf](https://github.com/ksrvv/TOPO/files/8003643/2.pdf)
 
-[Лабораторная работа №2.pdf](https://github.com/ksrvv/TOPO/files/7976519/2.pdf)
 
 
 [Лабораторная работа №3.pdf](https://github.com/ksrvv/TOPO/files/7976542/3.pdf)
