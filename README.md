@@ -13,5 +13,4 @@
 
 [Лабораторная работа №4.pdf](https://github.com/ksrvv/TOPO/files/7976544/4.pdf)
 
-
-[ПРИЛОЖЕНИЕ1 (Спецификация Медицинские карточки).pdf](https://github.com/ksrvv/TOPO/files/7976545/1.pdf)
+[спецификация вариант1.pdf](https://github.com/ksrvv/TOPO/files/8068611/1.pdf)
